@@ -1,2 +1,6 @@
 # verizon-iot-outage-prediction
-This repository will hold datasets and code to use Machine Learning to predict IoT outages.
+
+
+references:
+https://www.geeksforgeeks.org/multiclass-classification-using-scikit-learn/
+https://www.datacamp.com/blog/classification-machine-learning
